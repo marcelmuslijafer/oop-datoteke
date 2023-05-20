@@ -1,0 +1,100 @@
+Hello world!
+This is a string.
+Random text here.
+Lorem ipsum dolor sit amet.
+Duplicate string.
+Another random string.
+Short string.
+A duplicate string.
+Longer text with duplicates.
+Test string.
+Some random text.
+Duplicated string.
+Another unique string.
+Example text.
+A duplicate string.
+Short and sweet.
+More random text.
+This is a duplicate.
+Unique string here.
+Testing duplicates.
+Random string.
+Another duplicate.
+Short example.
+Unique text.
+Duplicate again.
+Longer duplicated text here.
+Just a string.
+Another unique text.
+Test duplicate.
+Random example.
+A duplicate string.
+Unique random text.
+This is a duplicate.
+Another test string.
+Short duplicate.
+Random unique text.
+Duplicate test.
+More example text.
+Duplicated string.
+Another random string.
+Short and duplicated.
+Unique example.
+Random test string.
+Duplicate again.
+A unique string.
+Duplicated text here.
+Just a duplicate.
+Unique random string.
+Duplicate example.
+Random duplicate.
+Another unique example.
+Test duplicate string.
+Random text here.
+Duplicate once more.
+Short and unique.
+Example duplicated.
+Another test string.
+Unique random text.
+Duplicate test.
+More example text.
+Duplicated string.
+Another random string.
+Short and duplicated.
+Unique example.
+Random test string.
+Duplicate again.
+A unique string.
+Duplicated text here.
+Just a duplicate.
+Unique random string.
+Duplicate example.
+Random duplicate.
+Another unique example.
+Test duplicate string.
+Random text here.
+Duplicate once more.
+Short and unique.
+Example duplicated.
+Another test string.
+Unique random text.
+Duplicate test.
+More example text.
+Duplicated string.
+Another random string.
+Short and duplicated.
+Unique example.
+Random test string.
+Duplicate again.
+A unique string.
+Duplicated text here.
+Just a duplicate.
+Unique random string.
+Duplicate example.
+Random duplicate.
+Another unique example.
+Test duplicate string.
+Random text here.
+Duplicate once more.
+Short and unique.
+Example duplicated.
